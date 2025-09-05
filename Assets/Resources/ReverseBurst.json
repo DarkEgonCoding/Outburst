@@ -1,0 +1,552 @@
+{
+	"cards": [
+        { 
+            "answer": "Christmas",
+            "items": ["Presents","Stockings","Carols","Family","Birth","Holiday","Santa","Red and Green","Cookies","Eve"]
+        },
+        {
+            "answer": "Pizza",
+            "items": ["Cheese", "Pepperoni", "Slice", "Crust", "Toppings", "Oven", "Sauce", "Delivery", "Mozzarella", "Pie"]
+        },
+        {
+            "answer": "Soccer",
+            "items": ["Goal", "Ball", "Referee", "Kick", "Field", "Cleats", "Net", "Penalty", "World Cup", "FIFA"]
+        },
+        {
+            "answer": "Shakespeare",
+            "items": ["Romeo", "Juliet", "Hamlet", "Playwright", "Globe Theatre", "Elizabethan", "Macbeth", "Poet", "England", "Tragedy"]
+        },
+        {
+            "answer": "Basketball",
+            "items": ["Dribble", "Court", "Dunk", "Three Pointer", "NBA", "Hoop", "Rebound", "Foul", "Team", "Coach"]
+        },
+        {
+            "answer": "Baseball",
+            "items": ["Bat", "Glove", "Diamond", "Pitcher", "Home Run", "Strike", "Outfield", "Catcher", "Bases", "MLB"]
+        },
+        {
+            "answer": "The Moon",
+            "items": ["Crater", "Orbit", "Satellite", "Night Sky", "Phases", "Lunar", "Neil Armstrong", "Apollo", "Gravity", "Tides"]
+        },
+        {
+            "answer": "Dogs",
+            "items": ["Bark", "Tail", "Puppy", "Fetch", "Collar", "Leash", "Bone", "Man’s Best Friend", "Kennel", "Breed"]
+        },
+        {
+            "answer": "Cats",
+            "items": ["Whiskers", "Purr", "Claws", "Meow", "Litter Box", "Feline", "Nap", "Nine Lives", "Scratch", "Kitten"]
+        },
+        {
+            "answer": "Coffee",
+            "items": ["Beans", "Cup", "Latte", "Espresso", "Caffeine", "Mug", "Barista", "Colombian", "Starbucks", "Roast"]
+        },
+        {
+            "answer": "Ice Cream",
+            "items": ["Cone", "Sundae", "Vanilla", "Chocolate", "Scoop", "Sprinkles", "Cold", "Dessert", "Banana Split", "Dairy"]
+        },
+        {
+            "answer": "Harry Potter",
+            "items": ["Wand", "Hogwarts", "Magic", "Wizard", "Owl", "Quidditch", "Voldemort", "Griffindor", "Spells", "J.K. Rowling"]
+        },
+        {
+            "answer": "The Beatles",
+            "items": ["John", "Paul", "George", "Ringo", "Abbey Road", "Liverpool", "Band", "Songs", "Beatlemania", "Yellow Submarine"]
+        },
+        {
+            "answer": "Paris",
+            "items": ["Eiffel Tower", "Louvre", "Seine", "France", "Notre Dame", "Café", "City of Light", "Arc de Triomphe", "Tourist", "Romance"]
+        },
+        {
+            "answer": "Christmas",
+            "items": ["Presents", "Stockings", "Carols", "Family", "Birth", "Holiday", "Santa", "Red and Green", "Cookies", "Eve"]
+        },
+        {
+            "answer": "Halloween",
+            "items": ["Pumpkin", "Candy", "Costume", "Ghost", "Witch", "October", "Haunted House", "Trick-or-Treat", "Skeleton", "Spooky"]
+        },
+        {
+            "answer": "The Simpsons",
+            "items": ["Homer", "Bart", "Springfield", "Marge", "Cartoon", "Lisa", "TV Show", "Yellow", "Donuts", "Comedy"]
+        },
+        {
+            "answer": "The Ocean",
+            "items": ["Waves", "Salt", "Fish", "Whale", "Coral", "Shark", "Beach", "Deep", "Current", "Tide"]
+        },
+        {
+            "answer": "Video Games",
+            "items": ["Controller", "Console", "Level", "Boss", "PlayStation", "Nintendo", "PC", "Graphics", "Online", "Multiplayer"]
+        },
+        {
+            "answer": "The Internet",
+            "items": ["Website", "Email", "Google", "Wi-Fi", "Browser", "Social Media", "Streaming", "Cloud", "Search", "Link"]
+        },
+        {
+            "answer": "School",
+            "items": ["Teacher", "Homework", "Desk", "Classroom", "Textbook", "Pencil", "Students", "Tests", "Recess", "Principal"]
+        },
+        {
+            "answer": "Money",
+            "items": ["Cash", "Bank", "Wallet", "Savings", "Coins", "Bills", "Check", "ATM", "Credit Card", "Wealth"]
+        },
+        {
+            "answer": "New York City",
+            "items": ["Statue of Liberty", "Times Square", "Broadway", "Empire State Building", "Central Park", "Skyscraper", "Subway", "Brooklyn", "Big Apple", "Manhattan"]
+        },
+        {
+            "answer": "Mountains",
+            "items": ["Hiking", "Climb", "Peak", "Snow", "Alps", "Everest", "Range", "Valley", "Rocky", "Summit"]
+        },
+        {
+            "answer": "Airplanes",
+            "items": ["Wings", "Pilot", "Airport", "Takeoff", "Landing", "Flight", "Runway", "Cabin", "Jet", "Seatbelt"]
+        },
+        {
+            "answer": "Superman",
+            "items": ["Clark Kent", "Lois Lane", "Kryptonite", "Cape", "Hero", "Metropolis", "DC Comics", "Flying", "Strength", "Daily Planet"]
+        },
+        {
+            "answer": "Batman",
+            "items": ["Gotham", "Bruce Wayne", "Robin", "Joker", "Batmobile", "DC Comics", "Cave", "Mask", "Hero", "Utility Belt"]
+        },
+        {
+            "answer": "Star Wars",
+            "items": ["Darth Vader", "Jedi", "Lightsaber", "Force", "Empire", "Galaxy", "Stormtrooper", "Yoda", "Skywalker", "Rebellion"]
+        },
+        {
+            "answer": "Starbucks",
+            "items": ["Coffee", "Latte", "Green Logo", "Cups", "Espresso", "Seattle", "Frappuccino", "Cafe", "Barista", "Tea"]
+        },
+        {
+            "answer": "McDonald's",
+            "items": ["Fries", "Happy Meal", "Golden Arches", "Big Mac", "Burger", "Drive-Thru", "Ronald", "Fast Food", "McNuggets", "Milkshake"]
+        },
+        {
+            "answer": "Ice Skating",
+            "items": ["Rink", "Blades", "Winter", "Glide", "Figure", "Hockey", "Cold", "Balance", "Skates", "Frozen"]
+        },
+        {
+            "answer": "Chess",
+            "items": ["Pawn", "Knight", "Checkmate", "Rook", "Board", "Bishop", "Queen", "King", "Strategy", "Game"]
+        },
+        {
+            "answer": "Dinosaurs",
+            "items": ["T-Rex", "Fossils", "Jurassic", "Extinct", "Triceratops", "Museum", "Paleontology", "Velociraptor", "Bones", "Prehistoric"]
+        },
+        {
+            "answer": "Rain",
+            "items": ["Umbrella", "Drops", "Cloud", "Storm", "Thunder", "Lightning", "Puddle", "Wet", "Weather", "Pouring"]
+        },
+        {
+            "answer": "The Desert",
+            "items": ["Sand", "Dunes", "Cactus", "Camel", "Heat", "Dry", "Scorpion", "Mirage", "Oasis", "Sun"]
+        },
+        {
+            "answer": "Disney",
+            "items": ["Mickey", "Castle", "Movies", "Theme Park", "Animation", "Walt", "Princess", "Magic", "Goofy", "Pixar"]
+        },
+        {
+            "answer": "Football",
+            "items": ["Touchdown", "Quarterback", "Helmet", "NFL", "Field Goal", "Kickoff", "Super Bowl", "Pass", "Defense", "Offense"]
+        },
+        {
+            "answer": "Volcano",
+            "items": ["Lava", "Eruption", "Ash", "Magma", "Crater", "Smoke", "Mountain", "Molten", "Explosive", "Geology"]
+        },
+        {
+            "answer": "Spaghetti",
+            "items": ["Pasta", "Noodles", "Sauce", "Italy", "Tomato", "Meatballs", "Fork", "Plate", "Parmesan", "Dinner"]
+        },
+        {
+            "answer": "Football (Soccer)",
+            "items": ["Goalie", "Red Card", "Offside", "Kick", "Stadium", "Fans", "Ball", "Team", "Referee", "Tournament"]
+        },
+        {
+            "answer": "Breakfast Foods",
+            "items": ["Eggs", "Bacon", "Pancakes", "Cereal", "Toast", "Omelette", "Bagel", "Waffles", "Smoothie", "Coffee"]
+        },
+        {
+            "answer": "Planets",
+            "items": ["Earth", "Mars", "Venus", "Jupiter", "Saturn", "Mercury", "Neptune", "Uranus", "Pluto", "Orbit"]
+        },
+        {
+            "answer": "Musical Instruments",
+            "items": ["Guitar", "Piano", "Violin", "Drums", "Flute", "Trumpet", "Saxophone", "Cello", "Clarinet", "Harp"]
+        },
+        {
+            "answer": "Desserts",
+            "items": ["Cake", "Ice Cream", "Cookies", "Pie", "Brownies", "Cupcakes", "Pudding", "Donuts", "Tiramisu", "Mousse"]
+        },
+        {
+            "answer": "Countries in Africa",
+            "items": ["Nigeria", "Egypt", "South Africa", "Kenya", "Morocco", "Ghana", "Ethiopia", "Algeria", "Uganda", "Tanzania"]
+        },
+        {
+            "answer": "Things in a Classroom",
+            "items": ["Desk", "Chair", "Board", "Marker", "Notebook", "Teacher", "Students", "Projector", "Textbook", "Clock"]
+        },
+        {
+            "answer": "Ice Cream Flavors",
+            "items": ["Vanilla", "Chocolate", "Strawberry", "Mint", "Cookie Dough", "Rocky Road", "Pistachio", "Coffee", "Butter Pecan", "Neapolitan"]
+        },
+        {
+            "answer": "Famous Explorers",
+            "items": ["Columbus", "Magellan", "Vespucci", "Marco Polo", "Cook", "Lewis", "Clark", "Drake", "Amundsen", "Shackleton"]
+        },
+        {
+            "answer": "Olympic Sports",
+            "items": ["Swimming", "Gymnastics", "Track", "Wrestling", "Boxing", "Judo", "Cycling", "Rowing", "Shooting", "Archery"]
+        },
+        {
+            "answer": "Types of Clouds",
+            "items": ["Cumulus", "Stratus", "Cirrus", "Nimbus", "Altostratus", "Cumulonimbus", "Altocumulus", "Stratocumulus", "Fog", "Mammatus"]
+        },
+        {
+            "answer": "Things on a Pirate Ship",
+            "items": ["Anchor", "Sail", "Captain", "Treasure", "Cannon", "Parrot", "Map", "Flag", "Deck", "Rope"]
+        },
+        {
+            "answer": "Types of Pasta",
+            "items": ["Spaghetti", "Fettuccine", "Penne", "Ravioli", "Macaroni", "Lasagna", "Linguine", "Fusilli", "Tortellini", "Orzo"]
+        },
+        {
+            "answer": "Types of Trees",
+            "items": ["Oak", "Pine", "Maple", "Birch", "Cedar", "Willow", "Cherry", "Spruce", "Redwood", "Palm"]
+        },
+        {
+            "answer": "Famous Composers",
+            "items": ["Mozart", "Beethoven", "Bach", "Chopin", "Tchaikovsky", "Vivaldi", "Handel", "Haydn", "Schubert", "Liszt"]
+        },
+        {
+            "answer": "Famous Artists",
+            "items": ["Picasso", "Van Gogh", "Da Vinci", "Monet", "Rembrandt", "Michelangelo", "Warhol", "Dali", "Kahlo", "Matisse"]
+        },
+        {
+            "answer": "Olympic Cities",
+            "items": ["Tokyo", "London", "Rio", "Beijing", "Athens", "Paris", "Los Angeles", "Sydney", "Seoul", "Barcelona"]
+        },
+        {
+            "answer": "Types of Sharks",
+            "items": ["Great White", "Hammerhead", "Tiger", "Bull", "Whale", "Mako", "Nurse", "Goblin", "Blue", "Thresher"]
+        },
+        {
+            "answer": "Types of Bears",
+            "items": ["Grizzly", "Polar", "Panda", "Black", "Brown", "Sun", "Spectacled", "Sloth", "Kodiak", "Asiatic Black"]
+        },
+        {
+            "answer": "Types of Cheese",
+            "items": ["Cheddar", "Brie", "Gouda", "Swiss", "Mozzarella", "Blue", "Parmesan", "Feta", "Provolone", "Ricotta"]
+        },
+        {
+            "answer": "Board Games",
+            "items": ["Monopoly", "Chess", "Scrabble", "Clue", "Risk", "Checkers", "Life", "Candy Land", "Settlers of Catan", "Battleship"]
+        },
+        {
+            "answer": "Types of Tea",
+            "items": ["Green", "Black", "Herbal", "Oolong", "Chamomile", "Earl Grey", "Peppermint", "Rooibos", "Matcha", "Jasmine"]
+        },
+        {
+            "answer": "Things in a Bathroom",
+            "items": ["Toothbrush", "Soap", "Shampoo", "Towel", "Mirror", "Sink", "Toilet", "Bathtub", "Shower", "Razor"]
+        },
+        {
+            "answer": "Things on a Beach",
+            "items": ["Sand", "Umbrella", "Towel", "Waves", "Swimsuit", "Bucket", "Shells", "Seagulls", "Lifeguard", "Sunscreen"]
+        },
+        {
+            "answer": "Things in Space",
+            "items": ["Planet", "Star", "Moon", "Asteroid", "Comet", "Galaxy", "Meteor", "Black Hole", "Satellite", "Nebula"]
+        },
+        {
+            "answer": "Types of Fish",
+            "items": ["Salmon", "Trout", "Tuna", "Bass", "Catfish", "Pike", "Carp", "Cod", "Mackerel", "Perch"]
+        },
+        {
+            "answer": "Types of Flowers",
+            "items": ["Rose", "Tulip", "Daisy", "Lily", "Sunflower", "Orchid", "Peony", "Carnation", "Violet", "Hydrangea"]
+        },
+        {
+            "answer": "Planets in the Solar System",
+            "items": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto", "Orbit"]
+        },
+        {
+            "answer": "Pirates",
+            "items": ["Hook", "Treasure", "Blackbeard", "Parrot", "Ship", "Captain", "Sword", "Rum", "Jolly Roger", "Cannon"]
+        },
+        {
+            "answer": "Types of Clouds",
+            "items": ["Cumulus", "Stratus", "Cirrus", "Nimbus", "Altocumulus", "Cumulonimbus", "Stratocumulus", "Fog", "Mammatus", "Altostratus"]
+        },
+        {
+            "answer": "Famous Scientists",
+            "items": ["Einstein", "Newton", "Curie", "Tesla", "Darwin", "Hawking", "Galileo", "Pasteur", "Edison", "Fleming"]
+        },
+        {
+            "answer": "Halloween",
+            "items": ["Pumpkin", "Candy", "Costume", "Ghost", "Witch", "October", "Skeleton", "Spooky", "Haunted House", "Trick-or-Treat"]
+        },
+        {
+            "answer": "Famous Landmarks",
+            "items": ["Eiffel Tower", "Great Wall", "Statue of Liberty", "Colosseum", "Pyramids", "Big Ben", "Taj Mahal", "Sydney Opera House", "Christ the Redeemer", "Machu Picchu"]
+        },
+        {
+            "answer": "Types of Clouds",
+            "items": ["Cirrus", "Cumulus", "Stratus", "Nimbus", "Cumulonimbus", "Altostratus", "Altocumulus", "Fog", "Mammatus", "Stratocumulus"]
+        },
+        {
+            "answer": "Mythical Creatures",
+            "items": ["Dragon", "Unicorn", "Phoenix", "Griffin", "Mermaid", "Centaur", "Kraken", "Fairy", "Hydra", "Goblin"]
+        },
+        {
+            "answer": "Modes of Transportation",
+            "items": ["Car", "Bus", "Train", "Bicycle", "Airplane", "Boat", "Motorcycle", "Subway", "Taxi", "Tram"]
+        },
+        {
+            "answer": "Famous Authors",
+            "items": ["Shakespeare", "Rowling", "Tolkien", "Hemingway", "Orwell", "Dickens", "Austen", "Christie", "Twain", "King"]
+        },
+        {
+            "answer": "Countries in Europe",
+            "items": ["France", "Germany", "Italy", "Spain", "Portugal", "Belgium", "Netherlands", "Sweden", "Norway", "Greece"]
+        },
+        {
+            "answer": "Famous Scientists",
+            "items": ["Einstein", "Newton", "Curie", "Darwin", "Tesla", "Hawking", "Pasteur", "Galileo", "Fleming", "Edison"]
+        },
+        {
+            "answer": "Types of Trees",
+            "items": ["Oak", "Pine", "Maple", "Birch", "Cedar", "Willow", "Cherry", "Spruce", "Redwood", "Palm"]
+        },
+        {
+            "answer": "Famous Painters",
+            "items": ["Picasso", "Van Gogh", "Da Vinci", "Monet", "Rembrandt", "Dali", "Warhol", "Kahlo", "Michelangelo", "Matisse"]
+        },
+        {
+            "answer": "Ice Cream Flavors",
+            "items": ["Vanilla", "Chocolate", "Strawberry", "Mint", "Cookie Dough", "Rocky Road", "Pistachio", "Coffee", "Butter Pecan", "Neapolitan"]
+        },
+        {
+            "answer": "Types of Cookies",
+            "items": ["Chocolate Chip", "Oatmeal", "Sugar", "Peanut Butter", "Snickerdoodle", "Gingerbread", "Shortbread", "Macaron", "Molasses", "Biscotti"]
+        },
+        {
+            "answer": "Famous Athletes",
+            "items": ["Michael Jordan", "Serena Williams", "Usain Bolt", "LeBron James", "Cristiano Ronaldo", "Lionel Messi", "Tiger Woods", "Muhammad Ali", "Simone Biles", "Roger Federer"]
+        },
+        {
+            "answer": "Things Found in a Kitchen",
+            "items": ["Fridge", "Oven", "Knife", "Spoon", "Fork", "Plate", "Cup", "Pan", "Microwave", "Sink"]
+        },
+        {
+            "answer": "Famous Movies",
+            "items": ["Titanic", "Avatar", "Star Wars", "The Godfather", "Inception", "Jurassic Park", "The Lion King", "Frozen", "Avengers", "Harry Potter"]
+        },
+        {
+            "answer": "Famous Land Animals",
+            "items": ["Elephant", "Lion", "Tiger", "Giraffe", "Zebra", "Kangaroo", "Bear", "Cheetah", "Horse", "Rhinoceros"]
+        },
+        {
+            "answer": "Famous Sea Creatures",
+            "items": ["Shark", "Whale", "Dolphin", "Octopus", "Squid", "Sea Turtle", "Jellyfish", "Starfish", "Seahorse", "Crab"]
+        },
+        {
+            "answer": "Types of Bread",
+            "items": ["White", "Wheat", "Rye", "Sourdough", "Baguette", "Pita", "Focaccia", "Ciabatta", "Bagel", "Brioche"]
+        },
+        {
+            "answer": "Camping",
+            "items": ["Tent", "Sleeping Bag", "Campfire", "Hiking", "Backpack", "Marshmallows", "Compass", "Lantern", "Fishing", "Nature"]
+        },
+        {
+            "answer": "Zodiac Signs",
+            "items": ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo", "Libra", "Scorpio", "Sagittarius", "Capricorn"]
+        },
+        {
+            "answer": "Fruits",
+            "items": ["Apple", "Banana", "Orange", "Grapes", "Mango", "Strawberry", "Pineapple", "Peach", "Cherry", "Watermelon"]
+        },
+        {
+            "answer": "Vegetables",
+            "items": ["Carrot", "Broccoli", "Spinach", "Potato", "Tomato", "Cucumber", "Lettuce", "Pepper", "Onion", "Cauliflower"]
+        },
+        {
+            "answer": "Fast Food Chains",
+            "items": ["McDonald's", "Burger King", "KFC", "Wendy's", "Subway", "Taco Bell", "Domino's", "Pizza Hut", "Chipotle", "Five Guys"]
+        },
+        {
+            "answer": "Types of Music",
+            "items": ["Rock", "Pop", "Jazz", "Hip Hop", "Classical", "Blues", "Country", "Electronic", "Reggae", "Funk"]
+        },
+        {
+            "answer": "Famous Scientists",
+            "items": ["Einstein", "Newton", "Curie", "Darwin", "Tesla", "Hawking", "Galileo", "Pasteur", "Fleming", "Edison"]
+        },
+        {
+            "answer": "Olympic Events",
+            "items": ["Swimming", "Gymnastics", "Track", "Hurdles", "Boxing", "Judo", "Cycling", "Rowing", "Shooting", "Archery"]
+        },
+        {
+            "answer": "Famous Rivers",
+            "items": ["Nile", "Amazon", "Mississippi", "Yangtze", "Thames", "Ganges", "Danube", "Volga", "Seine", "Rhine"]
+        },
+        {
+            "answer": "Famous Mountains",
+            "items": ["Everest", "K2", "Denali", "Matterhorn", "Elbrus", "Kilimanjaro", "Mont Blanc", "Fuji", "Aconcagua", "Rainier"]
+        },
+        {
+            "answer": "Superheroes",
+            "items": ["Superman", "Batman", "Spider-Man", "Iron Man", "Wonder Woman", "Hulk", "Thor", "Black Panther", "Captain America", "Flash"]
+        },
+        {
+            "answer": "Villains",
+            "items": ["Joker", "Voldemort", "Thanos", "Loki", "Darth Vader", "Green Goblin", "Hannibal", "Magneto", "Cruella", "Maleficent"]
+        },
+        {
+            "answer": "Sea Animals",
+            "items": ["Shark", "Whale", "Dolphin", "Octopus", "Squid", "Turtle", "Jellyfish", "Seahorse", "Seal", "Crab"]
+        },
+        {
+            "answer": "Birds",
+            "items": ["Eagle", "Parrot", "Sparrow", "Owl", "Penguin", "Hawk", "Flamingo", "Peacock", "Crow", "Swan"]
+        },
+        {
+            "answer": "Reptiles",
+            "items": ["Snake", "Lizard", "Crocodile", "Turtle", "Chameleon", "Iguana", "Gecko", "Alligator", "Komodo", "Gila Monster"]
+        },
+        {
+            "answer": "Famous Cities",
+            "items": ["Paris", "London", "New York", "Tokyo", "Sydney", "Rome", "Barcelona", "Dubai", "Moscow", "Istanbul"]
+        },
+        {
+            "answer": "Famous Actors",
+            "items": ["Leonardo DiCaprio", "Brad Pitt", "Tom Hanks", "Meryl Streep", "Johnny Depp", "Scarlett Johansson", "Robert Downey Jr.", "Will Smith", "Angelina Jolie", "Denzel Washington"]
+        },
+        {
+            "answer": "Famous Actresses",
+            "items": ["Meryl Streep", "Scarlett Johansson", "Jennifer Lawrence", "Angelina Jolie", "Emma Stone", "Natalie Portman", "Anne Hathaway", "Sandra Bullock", "Julia Roberts", "Gal Gadot"]
+        },
+        {
+            "answer": "Famous Authors",
+            "items": ["Shakespeare", "Rowling", "Tolkien", "Hemingway", "Orwell", "Dickens", "Austen", "Christie", "Twain", "King"]
+        },
+        {
+            "answer": "Things in a Kitchen",
+            "items": ["Fridge", "Oven", "Stove", "Sink", "Pan", "Pot", "Knife", "Spoon", "Plate", "Cup"]
+        },
+        {
+            "answer": "Modes of Transportation",
+            "items": ["Car", "Bus", "Train", "Bicycle", "Airplane", "Boat", "Subway", "Motorcycle", "Taxi", "Tram"]
+        },
+        {
+            "answer": "Desserts",
+            "items": ["Cake", "Ice Cream", "Cookies", "Pie", "Brownies", "Cupcakes", "Pudding", "Donuts", "Tiramisu", "Mousse"]
+        },
+        {
+            "answer": "Elements",
+            "items": ["Hydrogen", "Oxygen", "Carbon", "Nitrogen", "Gold", "Silver", "Iron", "Helium", "Copper", "Neon"]
+        },
+        {
+            "answer": "Planets",
+            "items": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto", "Orbit"]
+        },
+        {
+            "answer": "Seafood",
+            "items": ["Salmon", "Shrimp", "Crab", "Lobster", "Tuna", "Oysters", "Clams", "Mussels", "Cod", "Sardine"]
+        },
+        {
+            "answer": "School Subjects",
+            "items": ["Math", "English", "Science", "History", "Geography", "Art", "Music", "PE", "Computer", "Economics"]
+        },
+        {
+            "answer": "Famous Landmarks",
+            "items": ["Eiffel Tower", "Great Wall", "Statue of Liberty", "Colosseum", "Pyramids", "Big Ben", "Taj Mahal", "Sydney Opera House", "Christ the Redeemer", "Machu Picchu"]
+        },
+        {
+            "answer": "Famous Athletes",
+            "items": ["Michael Jordan", "Serena Williams", "Usain Bolt", "LeBron James", "Cristiano Ronaldo", "Lionel Messi", "Tiger Woods", "Muhammad Ali", "Simone Biles", "Roger Federer"]
+        },
+        {
+            "answer": "Famous Scientists",
+            "items": ["Einstein", "Newton", "Curie", "Darwin", "Tesla", "Hawking", "Galileo", "Pasteur", "Fleming", "Edison"]
+        },
+        {
+            "answer": "Famous Paintings",
+            "items": ["Mona Lisa", "Starry Night", "The Scream", "Guernica", "The Last Supper", "Girl with a Pearl Earring", "The Persistence of Memory", "American Gothic", "The Birth of Venus", "Water Lilies"]
+        },
+        {
+            "answer": "Carnivorous Animals",
+            "items": ["Lion", "Tiger", "Wolf", "Fox", "Hyena", "Cheetah", "Leopard", "Jaguar", "Eagle", "Shark"]
+        },
+        {
+            "answer": "Herbs and Spices",
+            "items": ["Basil", "Oregano", "Rosemary", "Thyme", "Parsley", "Cilantro", "Cinnamon", "Ginger", "Saffron", "Pepper"]
+        },
+        {
+            "answer": "Planets in the Solar System",
+            "items": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto", "Orbit"]
+        },
+        {
+            "answer": "Famous Disney Characters",
+            "items": ["Mickey Mouse", "Donald Duck", "Goofy", "Simba", "Ariel", "Elsa", "Belle", "Cinderella", "Woody", "Buzz Lightyear"]
+        },
+        {
+            "answer": "Famous Cartoons",
+            "items": ["SpongeBob", "Tom and Jerry", "Looney Tunes", "The Simpsons", "Family Guy", "Adventure Time", "Rick and Morty", "Popeye", "Scooby-Doo", "Futurama"]
+        },
+        {
+            "answer": "Types of Dinosaurs",
+            "items": ["T-Rex", "Triceratops", "Velociraptor", "Stegosaurus", "Brachiosaurus", "Allosaurus", "Spinosaurus", "Ankylosaurus", "Diplodocus", "Pterodactyl"]
+        },
+        {
+            "answer": "Modes of Communication",
+            "items": ["Phone", "Email", "Text", "Letter", "Morse Code", "Fax", "Video Call", "Sign Language", "Social Media", "Radio"]
+        },
+        {
+            "answer": "Olympic Hosts",
+            "items": ["Tokyo", "London", "Rio", "Beijing", "Athens", "Paris", "Los Angeles", "Sydney", "Seoul", "Barcelona"]
+        },
+        {
+            "answer": "Famous Composers",
+            "items": ["Mozart", "Beethoven", "Bach", "Chopin", "Tchaikovsky", "Vivaldi", "Handel", "Haydn", "Schubert", "Liszt"]
+        },
+        {
+            "answer": "Famous Wars",
+            "items": ["World War I", "World War II", "Vietnam", "Korean War", "American Civil War", "Napoleonic Wars", "Persian Gulf", "Crimean War", "Iraq War", "Falklands War"]
+        },
+        {
+            "answer": "Types of Dogs",
+            "items": ["Labrador", "Golden Retriever", "German Shepherd", "Bulldog", "Poodle", "Beagle", "Boxer", "Dachshund", "Husky", "Rottweiler"]
+        },
+        {
+            "answer": "Types of Cats",
+            "items": ["Siamese", "Persian", "Maine Coon", "Bengal", "Sphynx", "Ragdoll", "British Shorthair", "Abyssinian", "Scottish Fold", "Russian Blue"]
+        },
+        {
+            "answer": "Famous Land Animals",
+            "items": ["Elephant", "Lion", "Tiger", "Giraffe", "Zebra", "Kangaroo", "Bear", "Cheetah", "Horse", "Rhinoceros"]
+        },
+        {
+            "answer": "Famous Sea Animals",
+            "items": ["Shark", "Whale", "Dolphin", "Octopus", "Squid", "Sea Turtle", "Jellyfish", "Starfish", "Seahorse", "Crab"]
+        },
+        {
+            "answer": "Types of Bread",
+            "items": ["White", "Wheat", "Rye", "Sourdough", "Baguette", "Pita", "Focaccia", "Ciabatta", "Bagel", "Brioche"]
+        },
+        {
+            "answer": "Famous Magicians",
+            "items": ["Harry Houdini", "David Copperfield", "Penn", "Teller", "Criss Angel", "Dynamo", "Lance Burton", "Siegfried", "Roy", "David Blaine"]
+        },
+        {
+            "answer": "Types of Pasta",
+            "items": ["Spaghetti", "Fettuccine", "Penne", "Ravioli", "Macaroni", "Lasagna", "Linguine", "Fusilli", "Tortellini", "Orzo"]
+        },
+        {
+            "answer": "Famous TV Shows",
+            "items": ["Friends", "The Office", "Game of Thrones", "Breaking Bad", "Stranger Things", "The Simpsons", "Grey's Anatomy", "Seinfeld", "Lost", "Rick and Morty"]
+        },
+        {
+            "answer": "Famous Mountains",
+            "items": ["Everest", "K2", "Denali", "Matterhorn", "Elbrus", "Kilimanjaro", "Mont Blanc", "Fuji", "Aconcagua", "Rainier"]
+        }
+    ]
+}
